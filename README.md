@@ -7,10 +7,10 @@ Este proyecto es la implementación del "Challenge Amigo Secreto" de Alura. Esta
 * **Agregar Amigos:** Los usuarios pueden ingresar los nombres de sus amigos y agregarlos a una lista.
 * **Lista de Amigos:** Se muestra una lista de los nombres ingresados.
 * **Validaciones de Datos de Entrada:** Se muestra algunas validaciónes de los datos ingresados.
-[./assets/InputValidation.png]
+  (/assets/InputValidation.png)
 * **Sorteo Aleatorio:** Un botón permite realizar el sorteo aleatorio de los amigos secretos.
 * **Visualización de Resultados:** Los resultados del sorteo se muestran en una lista, indicando quién le regala a quién.
-[./assets/SecretFriend.png]
+  (/assets/SecretFriend.png)
 
 ## Cómo Usar
 
